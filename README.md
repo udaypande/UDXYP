@@ -1,4 +1,4 @@
-- Learning how to code.
+- .
 
 <!---
 UDXYP/UDXYP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
